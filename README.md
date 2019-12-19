@@ -1,5 +1,7 @@
 # S&P 500 Stock Clustering
 
+credit: https://github.com/ttimong/blog-posts/blob/master/blog1-kmeans-clustering/final_model.ipynb (for K-means metrics function)
+
 This notebook demonstrates a clustering of the S&P 500 stock exchange, based on a select set of financial figures
 
 The exchange consists of 500 companies, but includes 505 common stocks, due to 5 companies having two shares of stocks in the exchange (Facebook, Under-Armour, NewsCorp, Comcast and 21st Century Fox)
